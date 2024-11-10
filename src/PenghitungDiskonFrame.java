@@ -112,6 +112,12 @@ public class PenghitungDiskonFrame extends javax.swing.JFrame {
             }
         });
 
+        jTextField3.setEditable(false);
+
+        jTextField4.setEditable(false);
+
+        jTextField5.setEditable(false);
+
         jTextArea1.setColumns(20);
         jTextArea1.setRows(5);
         jScrollPane1.setViewportView(jTextArea1);
